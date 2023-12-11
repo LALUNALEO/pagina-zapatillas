@@ -1,0 +1,63 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Productos Dylan</title>
+</head>
+<body bgcolor=" EC0E04  " text="white"> 
+<p> <H1> <FONT FACE="courier new"> <center> <MARQUEE BGCOLOR="#FF0027"> Vea nuestras gran marcas de zapatillas unica en el mundo </MARQUEE> </center> </FONT> </H1> </p>
+
+<FONT FACE="Impact">
+<MARQUEE BGCOLOR="#870B0B " text="Black"> <center> ZAPATILLAS DE CALIDAD Y DE BUENA MARCA A BUENOS PRECIOS SUPER ECONOMICOS </center> </MARQUEE>
+</FONT>
+<center><img src="zapa.jpeg" alt="Prueba" width="710" height="330"></center>
+
+<body>
+<img src="adidas.png" alt="centered image" height="300" width="300" />
+
+<img src="allstar.png" alt="centered image" height="250" width="250" />
+
+<img src="north star.png" alt="centered image" height="300" width="300" />
+
+<img src="puma.png" alt="centered image" height="300" width="300" />
+
+<img src="zuck.png" alt="centered image" height="300" width="300" />
+
+
+<section>
+            
+            <a href="https://www.adidas.pe/">
+                <img src="imagen2.jpg" alt="Adidas">
+            </a>
+        </section>
+<p>Para mas informacion vaya a la pagina web oficial para mas cononcimiento</p>
+<section>
+            
+            <a href="https://www.coliseum.com.pe/converse">
+                <img src="imagen2.jpg" alt="All star">
+            </a>
+        </section>
+<p>Para mas informacion vaya a la pagina web oficial para mas cononcimiento</p>
+<section>
+            
+            <a href="https://www.bata.pe/north-star">
+                <img src="imagen2.jpg" alt="North Star">
+            </a>
+        </section>
+<p>Para mas informacion vaya a la pagina web oficial para mas cononcimiento</p>
+<section>
+            
+            <a href="https://eu.puma.com/es/es/home">
+                <img src="imagen2.jpg" alt="Puma">
+            </a>
+        </section>
+<p>Para mas informacion vaya a la pagina web oficial para mas cononcimiento</p>
+<section>
+            
+            <a href="https://www.nike.com/es/">
+                <img src="imagen2.jpg" alt="Nike">
+            </a>
+        </section>
+<p>Para mas informacion vaya a la pagina web oficial para mas cononcimiento</p>
+<section>
+<center><img src="mercedes12.png" alt="centered image" height="200" width="200" /></center>
+            
